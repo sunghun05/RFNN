@@ -1,0 +1,22 @@
+device: cuda
+train: 60000 samples | test: 10000 samples
+trainable params (alphas + final fc): 81152
+epoch   1/100  lr=5.000  test_acc=0.9828
+epoch   2/100  lr=4.950  test_acc=0.9847
+epoch   3/100  lr=4.900  test_acc=0.9859
+epoch   4/100  lr=4.850  test_acc=0.9910
+epoch   5/100  lr=4.800  test_acc=0.9899
+epoch   6/100  lr=4.750  test_acc=0.9911
+epoch   7/100  lr=4.700  test_acc=0.9903
+epoch   8/100  lr=4.650  test_acc=0.9926
+epoch   9/100  lr=4.600  test_acc=0.9925
+epoch  10/100  lr=4.550  test_acc=0.9930
+epoch  11/100  lr=4.500  test_acc=0.9926
+epoch  12/100  lr=4.450  test_acc=0.9916
+epoch  13/100  lr=4.400  test_acc=0.9927
+epoch  14/100  lr=4.350  test_acc=0.9930
+epoch  15/100  lr=4.300  test_acc=0.9929
+epoch  16/100  lr=4.250  test_acc=0.9935
+epoch  17/100  lr=4.200  test_acc=0.9940
+epoch  18/100  lr=4.150  test_acc=0.9937
+epoch  19/100  lr=4.100  test_acc=0.9930
